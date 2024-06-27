@@ -79,16 +79,16 @@ export const albumsData = [
     },
     {   
         id:1,
-        name: "Top 50 India",
+        name: "Sabrina Carpenter",
         image: img9,
-        desc:"Your weekly update of the most played tracks",
+        desc:"All of her songs here",
         bgColor:"#22543d"
     },
     {   
         id:2,
-        name: "Trending India",
+        name: "Harry Styles",
         image: img10,
-        desc:"Your weekly update of the most played tracks",
+        desc:"All of his songs here",
         bgColor:"#742a2a"
     },
     {   
