@@ -1,5 +1,4 @@
-# MuseVibe
-A Full Stack Spotify clone application with my own twist!
+# MuseVibe Frontend
 
 # Tech Stack
 React.js, Tailwind CSS
