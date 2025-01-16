@@ -1,4 +1,4 @@
-# MuseVibe Frontend
+# MuseVibe
 
 # Tech Stack
 React.js, Tailwind CSS
