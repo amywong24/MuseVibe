@@ -12,7 +12,7 @@ const DisplayAlbum = () => {
         <>
             <Navbar />
             <div className="mt-10 flex gap-8 flex-col md:flex-row md:items-end">
-                <img className="w-48 rounded" src={albumData.image} alt="album image"/>
+                <img className="w-48 rounded" src={albumData.image} alt="album"/>
                 <div className="flex flex-col">
                     <p>Playlist</p>
                     <h2 className="text-5xl font-bold mb-4 md:text-7xl">{albumData.name}</h2>
